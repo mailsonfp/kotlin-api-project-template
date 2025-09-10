@@ -20,6 +20,6 @@ object Versions {
 
     //project
     const val projectMainClassName = ""
-    const val projectGroup = "com.mailson.pereira.tech.assessment"
+    const val projectGroup = "com.mailson.pereira.kotlin.project.template"
     const val projectVersion = "0.0.1-SNAPSHOT"
 }

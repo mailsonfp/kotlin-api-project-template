@@ -8,11 +8,11 @@ import org.springframework.boot.runApplication
 import java.util.TimeZone
 
 @SpringBootApplication
-@EntityScan("com.mailson.pereira.tech.assessment")
+@EntityScan("com.mailson.pereira.kotlin.project.template")
 @OpenAPIDefinition(info=Info(
-	title="Mailson Fernando Pereira - tech assessment",
+	title="Mailson Fernando Pereira - Kotlin API Project Template",
 	version = "v1",
-	description = "Project for tech assessment"))
+	description = "Kotlin API Project Template"))
 open class MailsonPereiraTemplateApplication {
 	companion object{
 		@JvmStatic

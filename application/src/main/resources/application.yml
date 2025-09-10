@@ -8,8 +8,8 @@ spring:
     baseline-on-migrate: true
 
 springdoc:
-  packages-to-scan: com.mailson.pereira.tech.assessment.web
+  packages-to-scan: com.mailson.pereira.kotlin.project.template.web
   swagger-ui:
     path: /swagger-ui.html
   api:
-    title: "Application for tech assessment"
+    title: "Kotlin API Project Template"
